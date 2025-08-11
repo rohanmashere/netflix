@@ -2,7 +2,18 @@
 A sleek Flutter application that fetches movie data from an API and presents it in a Netflix-like interface.
 Includes a splash screen, home screen with search functionality, and a detailed movie info page.
 
-A new Flutter project.
+# ✨ Features
+🔥 Splash Screen with Netflix logo animation
+
+🎥 Browse & Search Movies from an external API
+
+📄 Detailed Movie Page with summary, language, genres, rating, and premiere date
+
+🖼 Image Loading with Fallback for missing or broken images
+
+🎨 Dark Mode UI for cinematic experience
+
+📱 Responsive Layout for different screen sizes
 
 ## Getting Started
 
