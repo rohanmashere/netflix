@@ -18,22 +18,21 @@ Includes a splash screen, home screen with search functionality, and a detailed 
 # 📂 Project Structure
 
 lib/
- ├── main.dart               # App entry point
- ├── splash_screen.dart      # Splash screen with logo
- ├── home_screen.dart        # Movie listing & search
- ├── details_screen.dart     # Detailed movie info
- ├── movie.dart              # Movie data model
+├── main.dart               # App entry point
+├── splash_screen.dart      # Splash screen with logo
+├── home_screen.dart        # Movie listing & search
+├── details_screen.dart     # Detailed movie info
+├── movie.dart              # Movie data model
 
 
 # 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/netflix-style-movie-app.git
-cd netflix-style-movie-app
+git clone https://github.com/your-username/netflix-style-movie-app.gitcd netflix-style-movie-app
 
-2. Install dependencies
+3. Install dependencies
 flutter pub get
 
-4. Run the app
+5. Run the app
 flutter run
 
 #🛠 Technologies Used
