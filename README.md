@@ -42,12 +42,10 @@ flutter run
 4. Material Design for UI components
 
 # 📸 Screenshots:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rohanmashere/netflix/main/Screenshot_20250811_205149%5B1%5D.jpg" alt="Your screenshot" width="300"/>
-</div>
-
-![Alt text](https://github.com/rohanmashere/netflix/blob/main/Screenshot_20250811_205202%5B1%5D.jpg)![Alt text](https://github.com/rohanmashere/netflix/blob/main/Screenshot_20250811_205118%5B1%5D.jpg)
-![Alt text](https://github.com/rohanmashere/netflix/blob/main/Screenshot_20250811_205137%5B1%5D.jpg)![Alt text](https://github.com/rohanmashere/netflix/blob/main/Screenshot_20250811_205149%5B1%5D.jpg)
+<img src="https://raw.githubusercontent.com/rohanmashere/netflix/main/Screenshot_20250811_205202%5B1%5D.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/rohanmashere/netflix/main/Screenshot_20250811_205118%5B1%5D.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/rohanmashere/netflix/main/Screenshot_20250811_205137%5B1%5D.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/rohanmashere/netflix/main/Screenshot_20250811_205149%5B1%5D.jpg" width="300"/>
 
 
 A few resources to get you started if this is your first Flutter project:
