@@ -15,9 +15,32 @@ Includes a splash screen, home screen with search functionality, and a detailed 
 
 📱 Responsive Layout for different screen sizes
 
-## Getting Started
+# 📂 Project Structure
 
-This project is a starting point for a Flutter application.
+lib/
+ ├── main.dart               # App entry point
+ ├── splash_screen.dart      # Splash screen with logo
+ ├── home_screen.dart        # Movie listing & search
+ ├── details_screen.dart     # Detailed movie info
+ ├── movie.dart              # Movie data model
+
+
+# 🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/your-username/netflix-style-movie-app.git
+cd netflix-style-movie-app
+
+2. Install dependencies
+flutter pub get
+
+4. Run the app
+flutter run
+
+#🛠 Technologies Used
+1)Flutter (Dart)
+2)Google Fonts for typography
+3)REST API for fetching movie data
+4)Material Design for UI components
 
 A few resources to get you started if this is your first Flutter project:
 
