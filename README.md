@@ -1,4 +1,6 @@
-# app
+# 🎬 Netflix-Style Movie App (Flutter)
+A sleek Flutter application that fetches movie data from an API and presents it in a Netflix-like interface.
+Includes a splash screen, home screen with search functionality, and a detailed movie info page.
 
 A new Flutter project.
 
